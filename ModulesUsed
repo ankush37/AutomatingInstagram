@@ -1,0 +1,2 @@
+SELENIUM :- pip install selenium
+WEBDRIVER-MANAGER :- pip install webdriver-manager
